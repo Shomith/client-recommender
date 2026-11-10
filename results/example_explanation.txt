@@ -1,0 +1,10 @@
+Example: why the ranker scored product 'ind_ecue_fin_ult1' highly for one client
+
+  pop_rate = 0.00238: pushed up (+2.089)
+  cooc = 0.0656: pushed up (+1.789)
+  seg_rate = 0.00298: pushed up (+1.617)
+  product = 12: pushed up (+0.877)
+  antiguedad = 3: pushed up (+0.307)
+  canal_entrada = 15: pushed up (+0.205)
+  ind_nuevo = 1: pushed up (+0.108)
+  held_4 = 0: pushed up (+0.085)
